@@ -1,4 +1,7 @@
 git add .
 git commit -m 
  git push
+<<<<<<< HEAD
  git pull
+=======
+>>>>>>> update_script
